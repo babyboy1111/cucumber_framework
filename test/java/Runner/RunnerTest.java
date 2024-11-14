@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports/RunnerTest.html",
-                "json:target/cucumber-reports/RunnerTest.json",
+                "json:target/RunnerTest.json",
                 // "junit:target/cucumber-reports/cucumber.xml"
         }
 
