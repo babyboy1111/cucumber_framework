@@ -1,0 +1,65 @@
+[{
+  "name": "ELEMENTS",
+  "locator" :" //body/div[@id='app']/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+  "type" : "xpath"
+}, {
+  "name": "SUBMIT_BUTTON",
+  "locator" : "submit",
+  "type" : "id"
+}, {
+  "name": "UserName",
+  "locator" : "//p[@id='name']",
+  "type" : "xpath"
+}, {
+  "name": "TEXT_BOX",
+  "locator" : "item-0",
+  "type" : "id"
+}, {
+  "name": "CHECK_BOX",
+  "locator" : "item-1" ,
+  "type" : "id"
+}, {
+  "name": "HOME_DROPDOWN",
+  "locator" : "//body/div[@id='app']/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ol[1]/li[1]/span[1]/button[1]",
+  "type" : "xpath"
+}, {
+  "name": "DESKTOP_DROPDOWN",
+  "locator" : "//body/div[@id='app']/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ol[1]/li[1]/ol[1]/li[1]/span[1]/label[1]/span[1]",
+  "type" : "xpath"
+}, {
+  "name": "BUTTONS",
+  "locator" : "item-4",
+  "type" : "id"
+}, {
+  "name": "DOUBLE_BUTTON",
+  "locator" : "doubleClickBtn",
+  "type" : "id"
+}, {
+  "name": "DOUBLE_CLICK_MESSAGE",
+  "locator" : "//p[@id='doubleClickMessage']",
+  "type" : "xpath"
+}, {
+  "name": "LINKS",
+  "locator" : "item-5" ,
+  "type" : "id"
+}, {
+  "name": "HOME_LINK",
+  "locator" :"simpleLink" ,
+  "type" : "id"
+}, {
+  "name": "ALERTS",
+  "locator" : "//body/div[@id='app']/div[1]/div[1]/div[2]/div[1]/div[3]",
+  "type" : "xpath"
+} ,{
+  "name": "CLICK_ME",
+  "locator" : "confirmButton" ,
+  "type" : "id"
+}, {
+  "name": "ALERT_BOX",
+  "locator" : "//body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]",
+  "type" : "xpath"
+}, {
+  "name": "CONFIRM_MESS",
+  "locator" : "confirmResult",
+  "type" : "id"
+}]
